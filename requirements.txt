@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+immudb-py==1.0.5.post1
